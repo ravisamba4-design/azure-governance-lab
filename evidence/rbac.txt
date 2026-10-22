@@ -1,0 +1,4 @@
+Role         PrincipalType
+-----------  ---------------
+Reader       Group
+Contributor  Group

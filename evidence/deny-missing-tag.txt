@@ -1,0 +1,2 @@
+Code: RequestDisallowedByPolicy
+    "policyDefinitionDisplayName": "Require a tag on resources",

@@ -1,0 +1,3 @@
+Code: RequestDisallowedByPolicy
+    "policyDefinitionDisplayName": "Allowed locations",
+    "policyDefinitionDisplayName": "Require a tag on resources",

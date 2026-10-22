@@ -1,0 +1,4 @@
+Name
+--------------------------------
+Allowed locations: UK South only
+Require env tag on resources
